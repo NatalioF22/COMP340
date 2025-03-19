@@ -1,0 +1,15 @@
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/bin/Debug/net9.0/Goomba
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/bin/Debug/net9.0/Goomba.deps.json
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/bin/Debug/net9.0/Goomba.runtimeconfig.json
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/bin/Debug/net9.0/Goomba.dll
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/bin/Debug/net9.0/Goomba.pdb
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/obj/Debug/net9.0/Goomba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/obj/Debug/net9.0/Goomba.AssemblyInfoInputs.cache
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/obj/Debug/net9.0/Goomba.AssemblyInfo.cs
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/obj/Debug/net9.0/Goomba.csproj.CoreCompileInputs.cache
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/obj/Debug/net9.0/Goomba.sourcelink.json
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/obj/Debug/net9.0/Goomba.dll
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/obj/Debug/net9.0/refint/Goomba.dll
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/obj/Debug/net9.0/Goomba.pdb
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/obj/Debug/net9.0/Goomba.genruntimeconfig.cache
+/Users/nataliogomes/Desktop/Projects/COMP340/Goomba/obj/Debug/net9.0/ref/Goomba.dll
